@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          DB is the best football player named DB at csn
         </a>
       </header>
     </div>
